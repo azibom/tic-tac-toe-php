@@ -1,6 +1,6 @@
 # tic-tac-toe-php
 
-```
+```php
 <?php
 
 class Board {
